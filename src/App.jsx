@@ -13,7 +13,7 @@ function App() {
     <>
       <h1> Couter App </h1>
 
-      <h1> Counter Value : {counter} </h1>
+      <h2> Counter Value : {counter} </h2>
 
       <button onClick={incrementValue}> Increment </button> <br />
       <button onClick={decrementValue}> Decrement </button>
